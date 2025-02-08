@@ -60,6 +60,8 @@ When I’m not working or studying, I love to travel ✈️, explore nature 🏕
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height="40" alt="Tableau logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=atom" height="40" alt="atom logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
