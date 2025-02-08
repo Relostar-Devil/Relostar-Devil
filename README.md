@@ -67,4 +67,8 @@ When I’m not working or studying, I love to travel ✈️, explore nature 🏕
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo"  />
+  <img width="12" />
+  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Microsoft-Excel-logo.png" height="40" alt="Excel logo"  />
 </div>
